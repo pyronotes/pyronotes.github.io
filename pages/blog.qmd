@@ -1,0 +1,7 @@
+---
+title: "Blog"
+---
+
+<!-- # Blog -->
+
+Aktuelle Gedanken, Updates und kleinere Beiträge.

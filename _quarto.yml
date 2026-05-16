@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Pyro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: pages/data-explained.qmd
+        text: Data Explained
+
+      - href: pages/data-projects.qmd
+        text: Data Projects
+
+      - href: pages/chess.qmd
+        text: Chess
+
+      - href: pages/blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

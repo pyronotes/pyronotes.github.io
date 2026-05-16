@@ -1,0 +1,7 @@
+---
+title: "Data Explained"
+---
+
+<!-- # Data Explained -->
+
+Hier erkläre ich Datenmethoden, Statistik und Machine Learning Konzepte.

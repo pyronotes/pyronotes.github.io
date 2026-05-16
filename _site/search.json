@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pyro",
+    "section": "",
+    "text": "Welcome\nData Science, concepts, projects and chess.\nExplore:\n\nData Explained\nData Projects\nChess\nBlog"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "pages/data-projects.html",
+    "href": "pages/data-projects.html",
+    "title": "Data Projects",
+    "section": "",
+    "text": "Hier dokumentiere ich eigene Datenprojekte und Analysen."
+  },
+  {
+    "objectID": "pages/chess.html",
+    "href": "pages/chess.html",
+    "title": "Chess",
+    "section": "",
+    "text": "Schachanalysen, Eröffnungen und Gedanken zum Spiel."
+  },
+  {
+    "objectID": "pages/blog.html",
+    "href": "pages/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Aktuelle Gedanken, Updates und kleinere Beiträge."
+  },
+  {
+    "objectID": "pages/data-explained.html",
+    "href": "pages/data-explained.html",
+    "title": "Data Explained",
+    "section": "",
+    "text": "Hier erkläre ich Datenmethoden, Statistik und Machine Learning Konzepte."
+  }
+]

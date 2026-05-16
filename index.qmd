@@ -1,0 +1,14 @@
+---
+title: "Pyro"
+---
+
+# Welcome
+
+Data Science, concepts, projects and chess.
+
+Explore:
+
+- [Data Explained](pages/data-explained.qmd)
+- [Data Projects](pages/data-projects.qmd)
+- [Chess](pages/chess.qmd)
+- [Blog](pages/blog.qmd)

@@ -1,0 +1,7 @@
+---
+title: "Data Projects"
+---
+
+<!-- # Data Projects -->
+
+Hier dokumentiere ich eigene Datenprojekte und Analysen.

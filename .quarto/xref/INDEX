@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "4c85ff76"
+  },
+  "index.qmd": {
+    "index.html": "84f87a96"
+  },
+  "pages/blog.qmd": {
+    "blog.html": "bb2219fe"
+  },
+  "pages/chess.qmd": {
+    "chess.html": "ab1a8289"
+  },
+  "pages/data-explained.qmd": {
+    "data-explained.html": "514e7542"
+  },
+  "pages/data-projects.qmd": {
+    "data-projects.html": "30ae0235"
+  }
+}
