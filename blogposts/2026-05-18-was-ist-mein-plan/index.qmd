@@ -1,5 +1,5 @@
 ---
-title: "Warum eine Websites?"
+title: "Warum eine Website?"
 date: 2026-05-18
 categories: [Blog]
 ---
