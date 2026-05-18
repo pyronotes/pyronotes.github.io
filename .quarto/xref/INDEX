@@ -16,5 +16,11 @@
   },
   "pages/data-projects.qmd": {
     "data-projects.html": "30ae0235"
+  },
+  "blogposts/2026-05-18-was-ist-mein-plan/index.qmd": {
+    "index.html": "2a30e2d5"
+  },
+  "blog.qmd": {
+    "blog.html": "6ccb5c80"
   }
 }

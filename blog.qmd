@@ -1,0 +1,10 @@
+---
+title: Blog
+listing:
+  contents: blogposts
+  sort: "date desc"
+  type: default
+  fields: [title, date]
+---
+
+Aktuelle Gedanken, Updates und kleinere Beiträge.
