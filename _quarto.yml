@@ -5,6 +5,7 @@ project:
 website:
   title: "Pyro"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
@@ -23,9 +24,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
-    toc: true
+    toc: false
 
 
 

@@ -1,1 +1,44 @@
-/* css styles */
+a {
+    color: #6ea8fe;
+}
+
+a:hover {
+    color: #9ec5fe;
+}
+
+.navbar a:hover {
+    color: #9ec5fe !important;
+}
+
+.navbar-nav .nav-link.active {
+    color: #8ab4ff !important;
+    font-weight: 700;
+}
+
+/* Such-Popup Hintergrund */
+.aa-DetachedContainer {
+    background-color: #1e1e1e !important;
+    color: #f0f0f0 !important;
+}
+
+/* Suchfeld */
+.aa-Input {
+    background-color: #2b2b2b !important;
+    color: #f0f0f0 !important;
+    border: 1px solid #444 !important;
+}
+
+/* Placeholder */
+.aa-Input::placeholder {
+    color: #999 !important;
+}
+
+/* Such-Icon */
+.aa-SubmitIcon,
+.aa-ClearIcon {
+    color: #ccc !important;
+}
+
+.aa-DetachedOverlay {
+    background-color: rgba(10, 10, 10, 0.9) !important;
+}
